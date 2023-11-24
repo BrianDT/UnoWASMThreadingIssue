@@ -1,0 +1,10 @@
+{
+	"profiles": {
+		"UnoWASMThreadingIssue.Windows (Unpackaged)": {
+			"commandName": "Project"
+		},
+		"UnoWASMThreadingIssue.Windows (Package)": {
+			"commandName": "MsixPackage"
+		}
+	}
+}

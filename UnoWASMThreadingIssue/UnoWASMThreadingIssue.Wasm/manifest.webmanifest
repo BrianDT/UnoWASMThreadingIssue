@@ -1,0 +1,10 @@
+{
+  "background_color": "#ffffff",
+  "description": "UnoWASMThreadingIssue",
+  "display": "standalone",
+  "name": "UnoWASMThreadingIssue",
+  "short_name": "UnoWASMThreadingIssue",
+  "start_url": "/index.html",
+  "theme_color": "#ffffff",
+  "scope": "/"
+}
