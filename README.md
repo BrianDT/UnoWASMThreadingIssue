@@ -26,5 +26,6 @@ WASM Threading should be available
 Version Uno 5.0.48
 VS 17.7.7
 
-
+Sample updated to net8 and Uno.SDK 5.4.10
+Issue confirmed as resolved.
 
